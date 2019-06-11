@@ -11,11 +11,12 @@ export default {
 <style lang="scss" scoped>
 @import "../scss/variables.scss";
     footer {
-    background-color:#000;
-    padding:30px;
+        background-color: #191919;
+        padding: 30px;
     }
 
     footer p {
-    color: $primary-colour;
+        color: #fff;
+        font-family:calibri;
     }
 </style>
