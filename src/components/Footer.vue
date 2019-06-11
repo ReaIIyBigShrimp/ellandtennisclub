@@ -9,12 +9,13 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
+@import "../scss/variables.scss";
     footer {
     background-color:#000;
     padding:30px;
     }
 
     footer p {
-    color: rgb(10,145,10);
+    color: $primary-colour;
     }
 </style>

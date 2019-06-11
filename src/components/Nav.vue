@@ -1,10 +1,10 @@
 <template>
     <nav>
         <ul>
-            <li>Facilities</li>
-            <li>Membership</li>
-            <li>Coaching</li>
-            <li>Contact</li>
+            <li><a>Facilities</a></li>
+            <li><a>Membership</a></li>
+            <li><a>Coaching</a></li>
+            <li><a>Contact</a></li>
         </ul>
     </nav>
 </template>
@@ -26,7 +26,6 @@ export default {
                 a {
                     padding: 30px;
                 }
-                a:link {}
                 // Change to primary theme colour
                 a:hover {
                     color: $primary-colour;
