@@ -13,10 +13,9 @@ export default {
     footer {
         background-color: #191919;
         padding: 30px;
-    }
-
-    footer p {
-        color: #fff;
-        font-family:calibri;
+        p {
+            color: #fff;
+            font-family:calibri;
+        }
     }
 </style>
