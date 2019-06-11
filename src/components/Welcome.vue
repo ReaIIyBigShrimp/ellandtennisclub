@@ -17,6 +17,7 @@ export default {
         }
         p {
             font-family: $primary-text;
+            padding: 30px;
         }
     }
 </style>

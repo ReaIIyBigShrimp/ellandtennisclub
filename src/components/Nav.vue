@@ -16,6 +16,7 @@ export default {
 <style lang="scss" scoped>
 @import "../scss/variables.scss";
     nav {
+        margin-top: 20px;
         ul {
             display: flex;
             flex-direction: row;
