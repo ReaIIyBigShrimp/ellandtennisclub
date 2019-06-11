@@ -15,7 +15,7 @@ export default {
         padding: 30px;
         p {
             color: #fff;
-            font-family:calibri;
+            font-family: $primary-text;
         }
     }
 </style>
